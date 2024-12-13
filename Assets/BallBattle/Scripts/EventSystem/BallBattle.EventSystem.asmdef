@@ -1,0 +1,16 @@
+{
+    "name": "BallBattle.EventSystem",
+    "rootNamespace": "BallBattle.EventSystem",
+    "references": [
+        "GUID:76a0d9456dc185d438922637b03ffe37"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

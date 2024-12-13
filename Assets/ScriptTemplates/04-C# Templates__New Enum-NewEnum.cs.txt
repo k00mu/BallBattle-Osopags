@@ -1,0 +1,15 @@
+//==================================================
+//
+//  Created by [NAME]
+//
+//==================================================
+
+#ROOTNAMESPACEBEGIN#
+    /// <summary>
+    /// 
+    /// </summary>
+    public enum #SCRIPTNAME#
+    {
+        #NOTRIM#
+    }
+#ROOTNAMESPACEEND#

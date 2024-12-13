@@ -1,0 +1,19 @@
+{
+    "name": "BallBattle.BattleField",
+    "rootNamespace": "BallBattle.BattleField",
+    "references": [
+        "GUID:ca18f5726d10a6443a0a2a9b5af30c1b",
+        "GUID:76a0d9456dc185d438922637b03ffe37",
+        "GUID:6faa5e8c53d4e7744ae070823097e549",
+        "GUID:14163d332cbd9994cbdfdaab808e12e2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

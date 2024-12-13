@@ -1,0 +1,22 @@
+//==============================================================================
+//
+//  Created by [NAME]
+//
+//==============================================================================
+
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+    /// <summary>
+    /// 
+    /// </summary>
+    [CreateAssetMenu(fileName = "", menuName = "")]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+        #NOTRIM#
+        //==================================================
+        // Methods
+        //==================================================
+        #NOTRIM#
+    }
+#ROOTNAMESPACEEND#

@@ -1,0 +1,20 @@
+{
+    "name": "BallBattle.Core",
+    "rootNamespace": "BallBattle.Core",
+    "references": [
+        "GUID:14163d332cbd9994cbdfdaab808e12e2",
+        "GUID:ad49842f518bdab4c94a6cf309e33ef0",
+        "GUID:6faa5e8c53d4e7744ae070823097e549",
+        "GUID:76a0d9456dc185d438922637b03ffe37",
+        "GUID:6cda93971cb0bfe499ba8220979656d6"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

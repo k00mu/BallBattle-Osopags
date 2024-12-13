@@ -1,0 +1,23 @@
+//==================================================
+//
+//  Created by [NAME]
+//
+//==================================================
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+#ROOTNAMESPACEBEGIN#
+    /// <summary>
+    /// 
+    /// </summary>
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        #NOTRIM#
+        //==================================================
+        // Methods
+        //==================================================
+        #NOTRIM#
+    }
+#ROOTNAMESPACEEND#
